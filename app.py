@@ -34,7 +34,7 @@ st.set_page_config(
 st.markdown(
     """
 <style>
-[data-testid="stAppViewContainer"] { background: #eef2f7; }
+[data-testid="stAppViewContainer"] { background: #000000; }
 [data-testid="stHeader"] { background: transparent; }
 
 .card {

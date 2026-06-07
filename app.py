@@ -38,12 +38,12 @@ st.markdown(
 [data-testid="stHeader"] { background: transparent; }
 
 .card {
-    background: #6F00FF;
+    background: #242124;
     border-radius: 12px;
     padding: 22px 26px 18px;
     margin-bottom: 20px;
     box-shadow: 0 2px 10px rgba(15,30,55,.08);
-    border-top: 3px solid #1a4b7a;
+    border-top: 3px solid #708090;
 }
 .card-title {
     font-size: 15px;

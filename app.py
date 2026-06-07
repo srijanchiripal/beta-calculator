@@ -83,16 +83,6 @@ code {
     font-weight: 600 !important;
 }
 
-/* Main widget labels */
-[data-testid="stWidgetLabel"] {
-    color: white !important;
-}
-
-[data-testid="stWidgetLabel"] p {
-    color: white !important;
-    opacity: 1 !important;
-}
-
 /* Radio group label */
 .stRadio > label {
     color: white !important;

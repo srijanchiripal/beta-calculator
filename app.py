@@ -83,11 +83,6 @@ code {
     font-weight: 600 !important;
 }
 
-/* Radio group label */
-.stRadio > label {
-    color: white !important;
-}
-
 /* Radio option text */
 .stRadio p {
     color: white !important;

@@ -164,7 +164,7 @@ st.markdown(
     Historical closing price extraction · Yahoo Finance · Consolidated Excel export
     </p>
 
-    <p style='text-align:center;font-size:14px'>
+    <p style='text-align:center;color:#64748b;font-size:14px;margin-bottom:8px'>
     Created by
     <a href='https://www.linkedin.com/in/srijanchiripal/'
        target='_blank'

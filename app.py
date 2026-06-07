@@ -177,16 +177,17 @@ st.markdown(
 )
 st.markdown(
     """<div class="note">
-⚠️ <strong>Ticker Symbols — Important:</strong>
+⚠️ <strong>Disclaimer:</strong> This tool is intended for educational purposes only. Data and calculations may contain inaccuracies and should not be relied upon as investment, financial, or valuation advice. Users are responsible for independently verifying all outputs.
+<strong>Ticker Symbols — Important:</strong>
 Enter tickers <em>exactly</em> as shown on Yahoo Finance.<br>
 Examples: &nbsp;
-<code>AAPL</code> (Apple USA) &nbsp;·&nbsp;
-<code>MSFT</code> (Microsoft) &nbsp;·&nbsp;
-<code>RELIANCE.NS</code> (Reliance NSE India) &nbsp;·&nbsp;
-<code>TCS.NS</code> (TCS NSE) &nbsp;·&nbsp;
-<code>0700.HK</code> (Tencent HK) &nbsp;·&nbsp;
-<code>SAP.DE</code> (SAP Frankfurt) &nbsp;·&nbsp;
-<code>BP.L</code> (BP London).<br>
+AAPL (Apple USA) &nbsp;·&nbsp;
+MSFT (Microsoft) &nbsp;·&nbsp;
+RELIANCE.NS (Reliance NSE India) &nbsp;·&nbsp;
+TCS.NS (TCS NSE) &nbsp;·&nbsp;
+0700.HK (Tencent HK) &nbsp;·&nbsp;
+SAP.DE (SAP Frankfurt) &nbsp;·&nbsp;
+BP.L (BP London).<br>
 Not sure? Visit <a href="https://finance.yahoo.com" target="_blank">finance.yahoo.com</a>,
 search the company name, and copy the ticker symbol shown in the URL or page header.
 The <strong>benchmark index</strong> is selected from the dropdown — you do not type it.

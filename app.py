@@ -86,11 +86,7 @@ code {
 /* Radio option text */
 .stRadio p {
     color: white !important;
-}
 
-/* Fallback for Streamlit's markdown labels */
-div[data-testid="stMarkdownContainer"] p {
-    color: white;
 }
 </style>
 """,

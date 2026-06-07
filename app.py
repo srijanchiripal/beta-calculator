@@ -38,7 +38,7 @@ st.markdown(
 [data-testid="stHeader"] { background: transparent; }
 
 .card {
-    background: #E5E4E2;
+    background: #6F00FF;
     border-radius: 12px;
     padding: 22px 26px 18px;
     margin-bottom: 20px;
@@ -46,14 +46,14 @@ st.markdown(
     border-top: 3px solid #1a4b7a;
 }
 .card-title {
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 700;
-    color: #1a4b7a;
+    color: #E6E6FA;
     letter-spacing: .8px;
     text-transform: uppercase;
     margin-bottom: 16px;
     padding-bottom: 8px;
-    border-bottom: 1px solid #e2e8f0;
+    border-bottom: 1px solid #6F00FF;
 }
 .note {
     background: #fffbeb;

@@ -144,26 +144,25 @@ def _clear_all() -> None:
 # ─────────────────────────────────────────────────────────────────────────────
 st.markdown(
     """
-    <h1 style='text-align:center;color:#0f2744;font-size:30px;margin-bottom:4px'>
+    <h1 style='text-align:center;color:#f5f3f4;font-size:40px;margin-bottom:4px'>
     📊 Bottom-Up Beta Calculator
     </h1>
 
     <p style='text-align:center;color:#64748b;font-size:14px;margin-bottom:8px'>
-    By Srijan Chiripal
+    Historical closing price extraction · Yahoo Finance · Consolidated Excel export
     </p>
 
     <p style='text-align:center;font-size:14px'>
-    LinkedIn
+    Created by
     <a href='https://www.linkedin.com/in/srijanchiripal/'
        target='_blank'
-       style='text-decoration:none;font-weight:600;color:#1A5276'>
+       style='text-decoration:none;font-weight:600;color:#41ead4'>
        Srijan Chiripal
     </a>
     </p>
     """,
     unsafe_allow_html=True,
 )
-
 st.markdown(
     """<div class="note">
 ⚠️ <strong>Ticker Symbols — Important:</strong>

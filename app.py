@@ -38,7 +38,7 @@ st.markdown(
 [data-testid="stHeader"] { background: transparent; }
 
 .card {
-    background: #242124;
+    background: #212529;
     border-radius: 12px;
     padding: 22px 26px 18px;
     margin-bottom: 20px;
@@ -53,16 +53,16 @@ st.markdown(
     text-transform: uppercase;
     margin-bottom: 16px;
     padding-bottom: 8px;
-    border-bottom: 1px solid #6F00FF;
+    border-bottom: 1px solid #343a40;
 }
 .note {
-    background: #fffbeb;
-    border: 1px solid #fde68a;
-    border-left: 4px solid #f59e0b;
+    background: #293241;
+    border: 1px solid #f8f9fa;
+    border-left: 4px solid #2ec4b6;
     border-radius: 0 8px 8px 0;
     padding: 12px 16px;
     font-size: 13px;
-    color: #78350f;
+    color: #0b090a;
     line-height: 1.65;
     margin-bottom: 20px;
 }
@@ -139,7 +139,7 @@ def _clear_all() -> None:
 # Header
 # ─────────────────────────────────────────────────────────────────────────────
 st.markdown(
-    "<h1 style='text-align:center;color:#0f2744;font-size:30px;margin-bottom:4px'>"
+    "<h1 style='text-align:center;color:#fdfffc;font-size:40px;margin-bottom:4px'>"
     "📊  Bottom-Up Beta Calculator</h1>"
     "<p style='text-align:center;color:#64748b;font-size:14px;margin-bottom:22px'>"
     "Historical closing price extraction &nbsp;·&nbsp; Yahoo Finance "

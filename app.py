@@ -79,7 +79,7 @@ code {
 
 /* All widget labels */
 [data-testid="stWidgetLabel"] {
-    color: #ffffff !important;
+    color: #e1e5ee !important;
     font-weight: 600 !important;
 }
 </style>

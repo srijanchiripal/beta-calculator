@@ -177,7 +177,9 @@ st.markdown(
 )
 st.markdown(
     """<div class="note">
-⚠️ <strong>Disclaimer:</strong> This tool is intended for educational purposes only. Data and calculations may contain inaccuracies and should not be relied upon as investment, financial, or valuation advice. Users are responsible for independently verifying all outputs.
+⚠️ <strong>Disclaimer:</strong><br>
+This tool is intended for educational purposes only. Data and calculations may contain inaccuracies and should not be relied upon as investment, financial, or valuation advice. 
+<br>Users are responsible for independently verifying all outputs.
 
 <strong>Ticker Symbols — Important:</strong>
 Enter tickers <em>exactly</em> as shown on Yahoo Finance.<br>

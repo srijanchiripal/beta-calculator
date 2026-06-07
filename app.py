@@ -168,7 +168,7 @@ st.markdown(
     Created by
     <a href='https://www.linkedin.com/in/srijanchiripal/'
        target='_blank'
-       style='text-decoration:none;font-weight:600;color:#41ead4'>
+       style='text-decoration:none;font-weight:600;color:#deb841'>
        Srijan Chiripal
     </a>
     </p>

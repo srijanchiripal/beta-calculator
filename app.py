@@ -160,7 +160,7 @@ st.markdown(
     📊 Bottom-Up Beta Calculator
     </h1>
 
-    <p style='text-align:center;color:#64748b;font-size:14px;margin-bottom:4px'>
+    <p style='text-align:center;color:#64748b;font-size:14px;margin-bottom:1px'>
     Historical closing price extraction · Yahoo Finance · Consolidated Excel export
     </p>
 

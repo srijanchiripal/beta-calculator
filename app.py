@@ -56,15 +56,16 @@ st.markdown(
     border-bottom: 1px solid #343a40;
 }
 .note {
-    background: #293241;
-    border: 1px solid #f8f9fa;
-    border-left: 4px solid #2ec4b6;
+    background: linear-gradient(135deg, #1e293b, #0f172a);
+    border: 1px solid #334155;
+    border-left: 5px solid #3b82f6;
     border-radius: 0 8px 8px 0;
-    padding: 12px 16px;
+    padding: 14px 18px;
     font-size: 13px;
-    color: #0b090a;
+    color: #f8fafc;
     line-height: 1.65;
     margin-bottom: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
 }
 code {
     background: #e8f0fb;

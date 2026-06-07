@@ -34,11 +34,11 @@ st.set_page_config(
 st.markdown(
     """
 <style>
-[data-testid="stAppViewContainer"] { background: #000000; }
+[data-testid="stAppViewContainer"] { background: #010B13; }
 [data-testid="stHeader"] { background: transparent; }
 
 .card {
-    background: #ffffff;
+    background: #E5E4E2;
     border-radius: 12px;
     padding: 22px 26px 18px;
     margin-bottom: 20px;

@@ -38,23 +38,26 @@ st.markdown(
 [data-testid="stHeader"] { background: transparent; }
 
 .card {
-    background: #212529;
+    background: #111827;
     border-radius: 12px;
     padding: 22px 26px 18px;
     margin-bottom: 20px;
-    box-shadow: 0 2px 10px rgba(15,30,55,.08);
-    border-top: 3px solid #708090;
+    border: 1px solid #374151;
+    border-top: 3px solid #f59e0b;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
 }
+
 .card-title {
     font-size: 15px;
     font-weight: 700;
-    color: #E6E6FA;
-    letter-spacing: .8px;
+    color: #f9fafb;
+    letter-spacing: 1px;
     text-transform: uppercase;
     margin-bottom: 16px;
-    padding-bottom: 8px;
-    border-bottom: 1px solid #343a40;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #374151;
 }
+
 .note {
     background: linear-gradient(135deg, #1e293b, #0f172a);
     border: 1px solid #334155;

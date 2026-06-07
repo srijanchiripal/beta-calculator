@@ -259,6 +259,12 @@ st.markdown("</div>", unsafe_allow_html=True)
 # ─────────────────────────────────────────────────────────────────────────────
 # SEARCH button
 # ─────────────────────────────────────────────────────────────────────────────
+st.markdown("---")
+go = st.button(
+    "🔍  FETCH DATA & GENERATE EXCEL",
+    use_container_width=True,
+    type="primary",
+
 st.markdown("""
 <style>
 div.stButton > button {

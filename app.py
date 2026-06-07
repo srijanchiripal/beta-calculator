@@ -21,13 +21,27 @@ warnings.filterwarnings("ignore")
 # ─────────────────────────────────────────────────────────────────────────────
 # Page config
 # ─────────────────────────────────────────────────────────────────────────────
-st.set_page_config(
-    page_title="Bottom-Up Beta Calculator",
-    page_icon="📊",
-    layout="wide",
-    initial_sidebar_state="collapsed",
-)
+st.markdown(
+    """
+    <h1 style='text-align:center;color:#0f2744;font-size:30px;margin-bottom:4px'>
+    Bottom-Up Beta Calculator
+    </h1>
 
+    <p style='text-align:center;color:#64748b;font-size:14px;margin-bottom:8px'>
+    Historical closing price extraction · Yahoo Finance · Consolidated Excel export
+    </p>
+
+    <p style='text-align:center;font-size:14px'>
+    Created by
+    <a href='https://www.linkedin.com/in/srijanchiripal/'
+       target='_blank'
+       style='text-decoration:none;font-weight:600;color:#1A5276'>
+       Srijan Chiripal
+    </a>
+    </p>
+    """,
+    unsafe_allow_html=True,
+)
 # ─────────────────────────────────────────────────────────────────────────────
 # Global CSS
 # ─────────────────────────────────────────────────────────────────────────────
@@ -75,6 +89,27 @@ code {
 </style>
 """,
     unsafe_allow_html=True,
+st.markdown(
+    """
+    <h1 style='text-align:center;color:#0f2744;font-size:30px;margin-bottom:4px'>
+    📊 Bottom-Up Beta Calculator
+    </h1>
+
+    <p style='text-align:center;color:#64748b;font-size:14px;margin-bottom:8px'>
+    Historical closing price extraction · Yahoo Finance · Consolidated Excel export
+    </p>
+
+    <p style='text-align:center;font-size:14px'>
+    Created by
+    <a href='https://www.linkedin.com/in/srijanchiripal/'
+       target='_blank'
+       style='text-decoration:none;font-weight:600;color:#1A5276'>
+       Srijan Chiripal
+    </a>
+    </p>
+    """,
+    unsafe_allow_html=True,
+)
 )
 
 # ─────────────────────────────────────────────────────────────────────────────

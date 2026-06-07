@@ -76,6 +76,12 @@ code {
     border-radius: 3px;
     font-size: 12px;
 }
+
+/* All widget labels */
+[data-testid="stWidgetLabel"] {
+    color: #ffffff !important;
+    font-weight: 600 !important;
+}
 </style>
 """,
     unsafe_allow_html=True,

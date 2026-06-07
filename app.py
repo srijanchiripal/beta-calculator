@@ -177,11 +177,7 @@ st.markdown(
 )
 st.markdown(
     """<div class="note">
-⚠️ <strong>Disclaimer:</strong><br>
-This tool is intended for educational purposes only. Data and calculations may contain inaccuracies and should not be relied upon as investment, financial, or valuation advice. 
-<br>Users are responsible for independently verifying all outputs.
-
-<strong>Ticker Symbols — Important:</strong>
+<strong>How to Input Ticker Symbols — Important:</strong>
 Enter tickers <em>exactly</em> as shown on Yahoo Finance.<br>
 Examples: &nbsp;
 AAPL (Apple USA) &nbsp;·&nbsp;
@@ -193,7 +189,12 @@ SAP.DE (SAP Frankfurt) &nbsp;·&nbsp;
 BP.L (BP London).<br>
 Not sure? Visit <a href="https://finance.yahoo.com" target="_blank">finance.yahoo.com</a>,
 search the company name, and copy the ticker symbol shown in the URL or page header.
-The <strong>benchmark index</strong> is selected from the dropdown — you do not type it.
+The <strong>benchmark index</strong> is selected from the dropdown — you do not type it.<br> <br>
+⚠️ <strong>Disclaimer:</strong><br>
+This tool is intended for educational purposes only and is not for commercial use. Data and calculations may contain inaccuracies and should not be relied upon as investment, financial, or valuation advice. Users are responsible for independently verifying all outputs.
+
+
+
 </div>""",
     unsafe_allow_html=True,
 )

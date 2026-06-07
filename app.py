@@ -264,32 +264,6 @@ go = st.button(
     "🔍  FETCH DATA & GENERATE EXCEL",
     use_container_width=True,
     type="primary",
-
-st.markdown("""
-<style>
-div.stButton > button {
-    background: linear-gradient(135deg, #2563eb, #1d4ed8);
-    color: white;
-    font-weight: 700;
-    font-size: 16px;
-    height: 60px;
-    border-radius: 12px;
-    border: none;
-    box-shadow: 0 4px 20px rgba(37, 99, 235, 0.35);
-    transition: all 0.2s ease;
-}
-
-div.stButton > button:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 28px rgba(37, 99, 235, 0.5);
-}
-
-div.stButton > button:focus {
-    outline: none;
-    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.4);
-}
-</style>
-""", unsafe_allow_html=True)
 )
 
 # ─────────────────────────────────────────────────────────────────────────────

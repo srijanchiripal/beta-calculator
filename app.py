@@ -156,16 +156,16 @@ def _clear_all() -> None:
 # ─────────────────────────────────────────────────────────────────────────────
 st.markdown(
     """
-    <h1 style='text-align:center;color:#f5f3f4;font-size:40px;margin-bottom:.1px'>
+    <h1 style='text-align:center;color:#f5f3f4;font-size:40px;margin-bottom:.01px'>
     📊 Bottom-Up Beta Calculator
     </h1>
 
-    <p style='text-align:center;color:#64748b;font-size:14px;margin-bottom:6px'>
+    <p style='text-align:center;color:#64748b;font-size:14px;margin-bottom:1px'>
     Historical closing price extraction · Yahoo Finance · Consolidated Excel export
     </p>
 
     <p style='text-align:center;color:#64748b;font-size:14px;margin-bottom:20px'>
-    CREATED BY
+    Developed by 
     <a href='https://www.linkedin.com/in/srijanchiripal/'
        target='_blank'
        style='text-decoration:none;font-weight:600;color:#deb841'>
